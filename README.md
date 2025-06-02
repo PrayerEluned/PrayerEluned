@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/PrayerEluned?style=social)](https://github.com/PrayerEluned)
 [![GitHub stars](https://img.shields.io/github/stars/PrayerEluned/PrayerEluned?style=social)](https://github.com/PrayerEluned/PrayerEluned)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://PrayerEluned.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](index.html/)
 
 **量子場理論専攻の物理系修士学生 | Unity ゲーム開発者 | 動画クリエイター**
 
